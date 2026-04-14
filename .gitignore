@@ -2,3 +2,4 @@ venv/
 mlruns/
 __pycache__/
 src/mlflow.db
+.dvc/
