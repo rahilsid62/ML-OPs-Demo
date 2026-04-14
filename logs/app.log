@@ -1,0 +1,10 @@
+2026-04-14 21:36:37,847 - INFO - Input: [6.7, 3.0, 5.2, 2.3], Prediction: 2, Model: Model A
+2026-04-14 21:36:37,847 - WARNING - ALERT: Class 2 detected (potential anomaly)
+2026-04-14 21:36:42,195 - INFO - Input: [6.7, 3.0, 5.2, 2.3], Prediction: 2, Model: Model A
+2026-04-14 21:36:42,195 - WARNING - ALERT: Class 2 detected (potential anomaly)
+2026-04-14 21:36:42,992 - INFO - Input: [6.7, 3.0, 5.2, 2.3], Prediction: 2, Model: Model B
+2026-04-14 21:36:42,992 - WARNING - ALERT: Class 2 detected (potential anomaly)
+2026-04-14 21:36:43,885 - INFO - Input: [6.7, 3.0, 5.2, 2.3], Prediction: 2, Model: Model B
+2026-04-14 21:36:43,885 - WARNING - ALERT: Class 2 detected (potential anomaly)
+2026-04-14 21:36:44,634 - INFO - Input: [6.7, 3.0, 5.2, 2.3], Prediction: 2, Model: Model B
+2026-04-14 21:36:44,636 - WARNING - ALERT: Class 2 detected (potential anomaly)
