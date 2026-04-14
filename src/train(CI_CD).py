@@ -10,3 +10,4 @@ model = RandomForestClassifier()
 model.fit(X, y)
 
 print("Model training completed successfully")
+print("Testing CI/CD pipeline")
